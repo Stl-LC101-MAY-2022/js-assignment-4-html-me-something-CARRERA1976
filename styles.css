@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+
+h2 {
+    border: 5px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 10px;
+    background-color: rgb(201,173,230);
+  }
+  P {
+    background-color: yellow;
+  }
+  header {
+    padding: 1.875em 0;
+    background-color: red;
+}
+li {
+  padding: 0px;
+  border: 1px solid #af4c84;
+}
+body {
+  width: 100%;
+  max-width: 1024px;
+  margin: 8px;
+  
+}
+#mainHeading {
+  color:red;
+  background-color: red;
+}
+
+#testP {
+  background-color: green;
+  color:green;
+}
